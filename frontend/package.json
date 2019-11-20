@@ -1,0 +1,12 @@
+{
+  "name": "kudos_frontend",
+  "version": "1.0.0",
+  "description": "Frontend web application that can receives requests from users",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
