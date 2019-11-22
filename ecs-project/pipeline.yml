@@ -26,5 +26,5 @@ stages:
       name: test
     -
       # The name of the environment to deploy to.
-      name: prod-us-west-1
+      name: prod-ohio
 
